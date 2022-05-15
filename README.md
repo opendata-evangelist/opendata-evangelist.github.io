@@ -9,5 +9,5 @@
 
 ## links
 
-- [オープンデータ | 政府CIOポータル](https://cio.go.jp/policy-opendata)
-- [オープンデータ伝道師派遣依頼フォーム｜首相官邸ホームページ](https://www.kantei.go.jp/jp/forms/input_od_dendoshi_haken.html)
+- [オープンデータ｜デジタル庁](https://www.digital.go.jp/resources/open_data/)
+- [オープンデータ伝道師派遣依頼フォーム｜デジタル庁](https://form-www.digital.go.jp/resources/open_data/evangelist_contact)
